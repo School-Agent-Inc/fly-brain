@@ -1,4 +1,4 @@
-# fly-brain
+# fly-brain🪰
 
 The complete wiring diagram of a male fruit fly's nervous system is now a file: 165,122
 neurons, 104 million synapses. This project runs that file as a spiking brain, inside a
